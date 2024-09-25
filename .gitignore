@@ -1,5 +1,6 @@
 # Ignore build directory
 build*/
+!balena-yocto-scripts/build*/
 
 # Ignore shared directories
 shared-*/
